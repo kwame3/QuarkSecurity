@@ -769,7 +769,7 @@ int main()
   //char file2[] = "/afs/umbc.edu/users/k/w/kwame3/home/quark/takehomesampleconfig.txt";
   char file1[] = "takehomesampleconfig.txt";
   //char file2[] = "input.txt";
-  char file2[] = "takehomesampleinput3.txt";
+  char file2[] = "takehomesampleinput.txt";
 
 
   readFromFiles(file1, file2);
