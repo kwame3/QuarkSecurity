@@ -37,7 +37,7 @@ int searchBeginningIndex(char line[], char dirtyword[])
         {
             j = 0;
         }
-0;136;0c    }
+    }
 
     if (j == x)
       {
