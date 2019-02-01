@@ -1,0 +1,36 @@
+Kwame Owusu-Boaitey
+This is the README file for the Take Home Assignment for Quark Security Inc.
+
+1-CONTENTS OF THE PACKAGE
+----------
+takehome.c			- source code for the assignment
+takehomecopy.c			- Uncompleted source code
+takehomesampleconfig.txt	- input parameters for the assignment
+takehomesampleinput.txt		- input parameters for the assignment
+Makefile			- Complies the source code
+README	- this file
+----------
+
+2-SYSTEM REQUIREMENTS:
+-------------------
+Linux x86_64 system
+gcc - GNU Compiler Colection - http://gcc.gnu.org/
+-------------------
+
+
+3-CODE COMPILATION:
+------------------
+
+Type "make" to compile the code and then a "takehome" file will be produced. Then type "takehome" to run the program
+
+------------------
+
+4-OUTPUT RESULT('output.txt'):
+
+Can we forge against these enemies grand and global alliance, North and South, East and West, that can assure more fruitful life for all mankind? Will you j\
+oin in that effort? In the long of the world, only few generations have been granted the role of defending freedom in its hour of maximum danger. I do not s\
+hrink from this responsibility — I welcome it. I do not believe that any of us would exchange places with any other people or any other generation. The ener\
+gy, the faith, the devotion which we bring this endeavor will light our country and all who serve it — and the glow from that fire can truly light the world\
+. And so, my fellow Americans: not what your country can do for you — what you can do for your country. My fellow citizens of the world: not what America wi\
+ll do for you, but what we can do for the freedom of man.
+
